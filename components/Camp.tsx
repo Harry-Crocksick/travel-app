@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { PEOPLE_URL } from '@/constants/index.ts';
+import { PEOPLE_URL } from '@/constants';
 
 interface CampProps {
     backgroundImage: string;

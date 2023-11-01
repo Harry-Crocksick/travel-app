@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { FEATURES } from '@/constants/index.ts';
+import { FEATURES } from '@/constants';
 
 type FeatureItems = {
     title: string;
