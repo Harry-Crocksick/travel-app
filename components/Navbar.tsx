@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { NAV_LINKS } from '@/constants';
-import Button from './Button.tsx';
+import Button from './Button';
 
 export default function Navbar() {
     return (
